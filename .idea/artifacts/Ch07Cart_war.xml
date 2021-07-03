@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Ch07Cart:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Ch07Cart</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Ch07Cart-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Ch07Cart:war exploded" />
+    </root>
+  </artifact>
+</component>
